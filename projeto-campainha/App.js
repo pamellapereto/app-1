@@ -1,3 +1,4 @@
+//Arquivo App
 import { useFonts, NerkoOne_400Regular } from '@expo-google-fonts/nerko-one'; 
 import TelaInicial from './screens/TelaInicial'
 
